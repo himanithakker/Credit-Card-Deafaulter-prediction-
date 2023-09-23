@@ -55,4 +55,3 @@ Among these techniques, Stochastic Gradient Descent and Decision Tree demonstrat
 
 Feel free to explore the project for more details and insights.
 
-*Author: [Your Name]*
