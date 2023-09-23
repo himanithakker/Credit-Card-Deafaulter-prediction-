@@ -1,5 +1,3 @@
-# Credit-Card-Deafaulter-prediction-
-
 
 # Credit Card Defaulter Prediction
 
